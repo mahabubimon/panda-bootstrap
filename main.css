@@ -20,9 +20,8 @@
     cursor: pointer;
 }
 
-.cat-1, .cat-2, .cat-3{
-    padding: 10px 30px;
-    border-radius: 10px;
+.top-banner h2{
+    color: #FF136F;
 }
 
 .cat-1{
